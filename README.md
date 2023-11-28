@@ -7,7 +7,7 @@ Multiplayer Ping Pong Game using <HTML> {CSS} (Javascript) and $(Jquery)
 Player1 : Left Arrow - Right Arrow
 Player2 : A - S
 <br><br>
-<a href='https://raghabendradash.github.io/projects/ping-pong-game/'>Click here to play the game</a>
+<a href='[https://my-ping-pong-game.web.app/]'>Click here to play the game</a>
 
 ### How to play:--
 
